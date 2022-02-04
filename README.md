@@ -1,11 +1,6 @@
 # 컴퓨터 알고리즘 (Sara Baase, Allen Van Gelder. 3rd ed) 정리 및 구현
 
 개인적인 이해를 위한 정리 및 알고리즘 구현
-> 알고리즘 구현은 Python 사용
-> 
-> 각 챕터별 pdf 파일은 github 마크다운 서식에 맞게 Typora 에서 md 작성 후 pdf로 변환
-> 
-> 원본 md 파일은 md files 에 정리
 
 \<PDF\>
 > ####  1. Chapter 1. 알고리즘과 문제의 분석 : 원리와 예제 (part1)
